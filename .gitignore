@@ -1,4 +1,3 @@
-
 # Environment variables and secrets
 .env
 .env.*
@@ -36,3 +35,4 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+>>>>>>> dd5d9c1de235f600e530c8250762d54b89e10935
